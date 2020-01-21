@@ -1,0 +1,51 @@
+.div1{
+	margin-left: 1px;
+	float: left;
+	width: 313px;
+	height: 470px;
+	background-color: black;
+}
+.div2{
+	float: left;
+	width: 877px;
+	height: 470px;
+	background-color: red;
+}
+.div3{
+	float: left;
+	width: 311px;
+	height: 470px;
+	background-color: black;
+}
+.div4{float: left;
+	width: 375px;
+	height: 195px;
+	background-color: blue;
+}
+.div5{
+	float: left;
+	width: 375px;
+	height: 195px;
+	background-color: lightgreen;
+}
+.div6{
+	float: right;
+	width: 375px;
+	height: 195px;
+	background-color: blue;
+}
+.div7{
+	float: right;
+	width: 375px;
+	height: 195px;
+	background-color: orange;
+}
+.topdiv{
+	background-color: orange;
+}
+.bottomdiv{
+	width: 1500px;
+	margin-left: 1px;
+	margin-top: 472px;
+	background-color: violet;
+}
